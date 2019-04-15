@@ -33,9 +33,9 @@ $ sudo git clone https://github.com/deadlysnowman3308/apt-error-solve.git
 
 $ cd apt-error-solve
 
-$ chmod 777 *.sh.x
+$ sudo chmod 777 *.sh.x
 
-$ ./apt-error-solve.sh.x
+$ sudo ./apt-error-solve.sh.x
 
 ```
 <br>
